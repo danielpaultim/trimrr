@@ -1,4 +1,4 @@
-# Trimrr - URL Shortener
+# [Trimrr - URL Shortener](https://trimrr-nine.vercel.app)
 
 ## Table of Contents
 - [Introduction](#introduction)
